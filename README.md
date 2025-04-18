@@ -1,6 +1,6 @@
 # Laravel-Livewire-tutorial
 
-An interactive tutorial web application built using Laravel and Livewire, designed to help developers learn how to build dynamic, reactive web interfaces without relying heavily on JavaScript. Users can follow step-by-step lessons, track their progress in real time, and explore practical examples throughout the learning experience.
+A simple training web application I built to practice Livewire and Flux concepts. The app is just a basic CRUD with no advanced features.
 
 📅 Date: 10 / 04 / 2025
 
