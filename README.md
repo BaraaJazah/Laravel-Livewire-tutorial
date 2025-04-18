@@ -1,6 +1,6 @@
 # Laravel-Livewire-tutorial
 
-A simple training web application I built to practice Livewire and Flux concepts. The app is just a basic CRUD with no advanced features.
+A simple SPA (Single Page Application) built with Laravel to practice Livewire and Flux concepts. The app is just a basic CRUD with no advanced features.
 
 📅 Date: 10 / 04 / 2025
 
