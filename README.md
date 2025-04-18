@@ -4,7 +4,7 @@ A simple SPA (Single Page Application) built with Laravel to practice Livewire, 
 
 📅 Date: 10 / 04 / 2025
 
-▶️ Youtube: 
+▶️ Youtube: https://www.youtube.com/watch?v=hQjDc2_Dzwo
 
 ## Project Features:
 
