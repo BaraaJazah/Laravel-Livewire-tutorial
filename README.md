@@ -36,6 +36,8 @@ Styling/UI: Skeleton, Progress
 
 Database: MySQL
 
+##
+
 📌 Note: This project is ideal for developers who want to learn Livewire in a practical and organized way — whether you're a beginner or an experienced Laravel developer.
 
 📢 Perfect for anyone looking to build dynamic web apps with Laravel without diving deep into JavaScript!
