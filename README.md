@@ -7,15 +7,25 @@ An interactive tutorial web application built using Laravel and Livewire, design
 ▶️ Youtube: 
 
 ## Project Features:
+
 ✅ Hands-on learning with Laravel 12 and Livewire
+
 ✅ Interactive examples demonstrating key Livewire concepts like components and lifecycle hooks
+
 ✅ Implements Flux architecture for structured and maintainable data flow
+
 ✅ Utilizes the Skeleton UI library for clean and modern design
+
 ✅ Integrated Progress UI to show learning milestones and steps
+
 ✅ MySQL database support for building dynamic and real-world examples
+
 ✅ Built-in pagination for efficient browsing through large datasets
+
 ✅ Clean and responsive interface for an engaging learning experience
+
 ✅ Fully responsive design optimized for all screen sizes
+
 
 ## 🔧 Technologies Used:
 Framework: Laravel 12
